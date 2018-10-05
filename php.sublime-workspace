@@ -1,0 +1,400 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"cat_title"
+			],
+			[
+				"arr",
+				"array1"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"arra",
+				"array2"
+			],
+			[
+				"ar",
+				"array2"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"ret",
+				"retrieve"
+			],
+			[
+				"on",
+				"onhand"
+			],
+			[
+				"in",
+				"inventory"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"str",
+				"stream"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"sign",
+				"signup"
+			],
+			[
+				"las",
+				"lastname"
+			],
+			[
+				"create",
+				"created"
+			],
+			[
+				"sq",
+				"sql"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"my",
+				"myDB"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"co",
+				"conn"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "includes/navigation.php",
+			"settings":
+			{
+				"buffer_size": 1751,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1541,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/db.php",
+			"settings":
+			{
+				"buffer_size": 300,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build: Cancel"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/cms/includes/db.php",
+		"/var/www/html/cms/index.php",
+		"/var/www/html/cms/includes/sidebar.php",
+		"/var/www/html/cms/includes/navigation.php",
+		"/var/www/html/cms/includes/footer.php",
+		"/var/www/html/cms/includes/header.php",
+		"/var/www/html/cms/php.sublime-project",
+		"/home/sumon/Desktop/demo.cpp",
+		"/home/sumon/Programming/UVA/11849.cpp",
+		"/home/sumon/Desktop/dictionary.cpp",
+		"/var/www/html/simple/index.php",
+		"/home/sumon/Programming/C++ Programming/9th Chapter/text",
+		"/home/sumon/Programming/C++ Programming/9th Chapter/copyreverse.cpp",
+		"/home/sumon/Programming/Web Desgine/Bootstrap/index.html",
+		"/var/www/html/demo/_practical-app/6.php",
+		"/var/www/html/demo/form.php",
+		"/home/sumon/Programming/C++ Programming/9th Chapter/swappair.cpp",
+		"/home/sumon/Programming/C++ Programming/9th Chapter/backward.cpp",
+		"/home/sumon/Desktop/FORMAT",
+		"/home/sumon/Desktop/EMAILS"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "includes/navigation.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1751,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1045,
+								1045
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 663.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "includes/db.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "php.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
